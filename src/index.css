@@ -1,0 +1,32 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+h1, h2, h3, h4, h5, h6{
+  margin: 0;
+}
+p{
+  margin: 0;
+}
+.menu a{
+  text-decoration: none;
+  color: black;
+}
+.dropdown-menu{
+  padding: 0;
+  border: 1px solid #000;
+}
+.menu .menu_items{
+  padding: 5px 10px;
+  width: 100%;
+  display: block;
+  border-bottom: 1px solid black;
+}
+.menu_right .items_right{
+  padding: 0px 10px;
+}
+
